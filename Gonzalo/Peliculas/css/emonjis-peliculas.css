@@ -1,0 +1,32 @@
+body {
+  background-color: #13F5F5;
+  font-family: sans-serif;
+}
+#Barra a{
+	font-size: 25px;
+	color: #17202A;;
+}
+h1 {
+  color: hsl(35, 100%, 30%);
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 2rem;
+}
+
+p.intro {
+  color: #E74C3C;
+}
+
+summary {
+  font-size: 4rem;
+}
+
+span.par {
+  background-color: #58D68D;
+}
+
+span.impar {
+  background-color: hsl(325, 100%, 90%);
+}
